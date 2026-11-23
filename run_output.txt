@@ -1,0 +1,16 @@
+           source     clean  match
+2026-01  86364.67  86364.67   True
+2026-02  67036.72  67036.72   True
+2026-03  94411.24  94411.24   True
+{'rows': 189, 'uncategorised_pct': np.float64(9.5), 'refund_rows': 8, 'null_amounts': 0, 'month_end_rows': 8}
+refund % of gross: 5.91
+year_month      2026-01   2026-02   2026-03
+category                                   
+Bills           8707.61   5552.01   8938.76
+Entertainment   2455.44   8228.34  11897.16
+Food           21793.24  10920.84  20973.24
+Groceries       4496.23   5817.35   5984.89
+Health          8929.18  16086.00   8199.07
+Shopping       15861.24   7886.69  11401.19
+Transport      16657.18   6040.19  18961.22
+Uncategorised   7464.55   6505.30   8055.71
